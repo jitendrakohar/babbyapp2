@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "50125779070",
+    "project_id": "babyapp-7e9c2",
+    "storage_bucket": "babyapp-7e9c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50125779070:android:e133b2aca5e673d03e282f",
+        "android_client_info": {
+          "package_name": "com.example.babbyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv69WPIb0HWzBT8oLxze-QrJ0dcyCIfh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50125779070:android:12693e65cfac11653e282f",
+        "android_client_info": {
+          "package_name": "com.example.babyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv69WPIb0HWzBT8oLxze-QrJ0dcyCIfh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
